@@ -1,4 +1,5 @@
-[TODO: Replace with your Netflify status badge]
+[[![Netlify Status](https://api.netlify.com/api/v1/badges/2ab614f3-0b34-4060-a5c8-32b783b0f459/deploy-status)](https://app.netlify.com/sites/peaceful-pike-11cdb3/deploys)
+]
 
 # HTML and CSS Assessment
 
