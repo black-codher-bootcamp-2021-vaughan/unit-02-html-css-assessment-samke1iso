@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Playfair+Display:ital@0;1&dis);
+body {font-family: 'Merriweather', serif}
+
+h1 {
+    text-align:center;
+
+}
+
+.image {
+    
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+}
+
+.fa-github {
+
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: left;
+    text-decoration: none;
+
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+  }
+
