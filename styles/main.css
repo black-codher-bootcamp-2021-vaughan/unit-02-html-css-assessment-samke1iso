@@ -12,7 +12,7 @@ h1 {
 }
 
 section {
-    text-align: justify;
+    text-align: center;
     margin: 0;
     padding: 0;
 
@@ -28,47 +28,8 @@ section {
 
 }
 
-.fa-linkedin {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: left;
-    text-decoration: none;
-    /* background: #007bb5;
-  color: white; */
-}
 
 .fa:hover {
     opacity: 0.7;
   }
 
-
-/* .projects {
-    list-style-type: none;
-margin :10px 30px;
-display: inline-block;
-font-size: 20px;
-padding: 20px 20px;
-Color: #fff;
-border: 1px solid #fff;
-Border-radius: 50%;
-transition: 5s;
-
-} */
-
-/* How do I make it stop and then just sit there? */
-
-
-/* .social-media {
-        animation-duration: 0.5s;
-        animation-name: animate-fade;
-        animation-delay: 0.5s;
-        animation-fill-mode: backwards;
-}
-
-@keyframes animate-fade {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  } */
-
-  /* WANT TO FADE IN THE SOCIAL MEDIA ICONS */
