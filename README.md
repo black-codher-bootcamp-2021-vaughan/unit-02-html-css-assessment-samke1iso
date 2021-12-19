@@ -1,4 +1,5 @@
-[TODO: Replace with your Netflify status badge]
+[[![Netlify Status](https://api.netlify.com/api/v1/badges/145f643d-8b9b-4e09-a43d-850c01c229c4/deploy-status)](https://app.netlify.com/sites/samkeliso-portfolio/deploys)
+]
 
 # HTML and CSS Assessment
 
